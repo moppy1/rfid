@@ -1,0 +1,12 @@
+.login-btn
+{
+  color: var(--bs-success);
+}
+.delete-btn
+{
+  color: var(--bs-danger);
+}
+table input:not(:focus)
+{
+  background-color: transparent !important;
+}
